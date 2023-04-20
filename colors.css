@@ -4,18 +4,24 @@
     --colorNeutralLowPure: #1d1e22;    
     /* Subtle Text; Icon; Border Active */
     --colorNeutralLowStrong: #57595f;    
-    /* Text Disabled; Icon Disabled; Border Disabled */
-    --colorNeutralLowMedium: #a7aab3;    
     /* Background; Text on Dark; Icon on Dark ; Border on Dark; */
     --colorNeutralHighPure: #ffffff;    
     /* Subtle background; Background hover */
     --colorNeutralHighLight: #f7f7f8;    
     /* Components Background; */
-    --colorNeutralHighWeak: #f1f2f3;    
+    --colorNeutralHighWeak: #ebebeb;    
+    /* Cor Primária Fourbank */
+    --colorPrimaryPure: #4182cd;    
+    /* Text Disabled; Icon Disabled; Border Disabled */
+    --colorNeutralLowMedium: #a7aab3;    
     /* Border; */
     --colorNeutralHighSubtle: #e9eaec;    
     --colorNeutralDepthBackdrop: #00000080;    
     --colorNeutralDepthOverlay: #ffffff80;    
+    /* Cor primária light da Fourbank */
+    --colorPrimaryLight: #6da2df;    
+    /* Cor primária Dard da Fourbank */
+    --colorPrimaryDark: #2e5e95;    
     /* Text; Background; Components Background; Border; Icon; */
     --colorAccentPure: #003cee;    
     /* Text Hover; Icon Hover; Background Hover; */
