@@ -1,0 +1,123 @@
+
+:root {
+    /* Text; Icon Hover; */
+    --colorNeutralLowPure: #1d1e22;    
+    /* Subtle Text; Icon; Border Active */
+    --colorNeutralLowStrong: #57595f;    
+    /* Text Disabled; Icon Disabled; Border Disabled */
+    --colorNeutralLowMedium: #a7aab3;    
+    /* Background; Text on Dark; Icon on Dark ; Border on Dark; */
+    --colorNeutralHighPure: #ffffff;    
+    /* Subtle background; Background hover */
+    --colorNeutralHighLight: #f7f7f8;    
+    /* Components Background; */
+    --colorNeutralHighWeak: #f1f2f3;    
+    /* Border; */
+    --colorNeutralHighSubtle: #e9eaec;    
+    --colorNeutralDepthBackdrop: #00000080;    
+    --colorNeutralDepthOverlay: #ffffff80;    
+    /* Text; Background; Components Background; Border; Icon; */
+    --colorAccentPure: #003cee;    
+    /* Text Hover; Icon Hover; Background Hover; */
+    --colorAccentStrong: #0235cf;    
+    /* Text Dark; Background Active; */
+    --colorAccentDark: #002db3;    
+    /* Subtle Background; Components Background; */
+    --colorAccentLight: #ebf3ff;    
+    /* Background Hover; */
+    --colorAccentWeak: #d9e6ff;    
+    /* Background Active; Text Disabled; */
+    --colorAccentSubtle: #c5d7fe;    
+    /* Text; Background; Components Background; Border; Icon; */
+    --colorInfoPure: #0096b1;    
+    /* Text Hover; Icon Hover; Background Hover; */
+    --colorInfoStrong: #0e87a0;    
+    /* Text Dark; Background Active; */
+    --colorInfoDark: #027687;    
+    /* Subtle Background; Components Background; */
+    --colorInfoLight: #e5fffe;    
+    /* Background Hover; */
+    --colorInfoWeak: #d7fefe;    
+    /* Background Active; Text Disabled; */
+    --colorInfoSubtle: #c5fafe;    
+    /* Text; Background; Components Background; Border; Icon; */
+    --colorPositivePure: #07885e;    
+    /* Text Hover; Icon Hover; Background Hover; */
+    --colorPositiveStrong: #2c6c50;    
+    /* Text Dark; Background Active; */
+    --colorPositiveDark: #2b5f45;    
+    /* Subtle Background; Components Background; */
+    --colorPositiveLight: #f0fff5;    
+    /* Background Hover; */
+    --colorPositiveWeak: #e5faee;    
+    /* Background Active; Text Disabled; */
+    --colorPositiveSubtle: #d8f8e7;    
+    /* Background; Components Background; Icon; */
+    --colorPreciousPure: #fdcd18;    
+    /* Text; Icon Hover; Background Hover; */
+    --colorPreciousStrong: #91730f;    
+    /* Text Dark; Text Hover; Background Active; */
+    --colorPreciousDark: #705b23;    
+    /* Subtle Background; Components Background; */
+    --colorPreciousLight: #fff7eb;    
+    /* Background Hover; */
+    --colorPreciousWeak: #faf3e5;    
+    /* Background Active; Text Disabled; Border; */
+    --colorPreciousSubtle: #f8efd8;    
+    /* Background; Components Background; Icon; */
+    --colorWarningPure: #e39600;    
+    /* Text; Icon Hover; Background Hover; */
+    --colorWarningStrong: #b37600;    
+    /* Text Dark; Text Hover; Background Active; */
+    --colorWarningDark: #9a6600;    
+    /* Subtle Background; Components Background; */
+    --colorWarningLight: #fff4de;    
+    /* Background Hover; */
+    --colorWarningWeak: #ffedcb;    
+    /* Background Active; Text Disabled; Border; */
+    --colorWarningSubtle: #ffe7b8;    
+    /* Text Dark; Text Hover; Background Active; */
+    --colorDynamicDark: #924f26;    
+    /* Subtle Background; Components Background; */
+    --colorDynamicLight: #ffeeeb;    
+    /* Background Hover; */
+    --colorDynamicWeak: #fbe9e4;    
+    /* Background Active; Text Disabled; Border; */
+    --colorDynamicSubtle: #f8e1d8;    
+    /* Text; Background; Components Background; Border; Icon; */
+    --colorCriticalPure: #db0000;    
+    /* Text Hover; Icon Hover; Background Hover; */
+    --colorCriticalStrong: #c00000;    
+    /* Text Dark; Background Active; */
+    --colorCriticalDark: #a70000;    
+    /* Subtle Background; Components Background; */
+    --colorCriticalLight: #ffebf2;    
+    /* Background Hover; */
+    --colorCriticalWeak: #ffe0eb;    
+    /* Background Active; Text Disabled; */
+    --colorCriticalSubtle: #fdd3dc;    
+    /* Text; Background; Components Background; Border; Icon; */
+    --colorImpulsePure: #e80b5b;    
+    /* Text Hover; Icon Hover; Background Hover; */
+    --colorImpulseStrong: #d00d54;    
+    /* Text Dark; Background Active; */
+    --colorImpulseDark: #a60640;    
+    /* Subtle Background; Components Background; */
+    --colorImpulseLight: #ffe9f1;    
+    /* Background Hover; */
+    --colorImpulseWeak: #ffe0eb;    
+    /* Background Active; Text Disabled; */
+    --colorImpulseSubtle: #ffcfe0;    
+    /* Text; Background; Components Background; Border; Icon; */
+    --colorSurprisePure: #7723f6;    
+    /* Text Hover; Icon Hover; Background Hover; */
+    --colorSurpriseStrong: #6323be;    
+    /* Text Dark; Background Active; */
+    --colorSurpriseDark: #4f279b;    
+    /* Subtle Background; Components Background; */
+    --colorSurpriseLight: #f3f0ff;    
+    /* Background Hover; */
+    --colorSurpriseWeak: #eae4fb;    
+    /* Background Active; Text Disabled; */
+    --colorSurpriseSubtle: #e5ddf9;    
+}

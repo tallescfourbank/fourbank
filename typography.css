@@ -1,0 +1,501 @@
+/* Use em parágrafos curtos de até cinco linhas. 
+Tem um bom tamanho para uma leitura confortável. */
+.typographyBodySm 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 136%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+/* Use em parágrafos curtos de até duas linhas.
+Tem um bom tamanho para uma leitura confortável. */
+.typographyBodySmSemibold 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 136%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+/* Use em parágrafos curtos ou longos.
+Tem um bom tamanho para uma leitura confortável. */
+.typographyBodyMd 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 140%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+/* Use em parágrafos curtos ou longos.
+Tem um bom tamanho para uma leitura confortável. */
+.typographyBodyMdSemibold 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 140%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+/* Use em parágrafos curtos de até duas linhas.
+Tem um bom tamanho para uma leitura confortável. */
+.typographyBodyLg 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+/* Use em parágrafos curtos de até duas linhas.
+Tem um bom tamanho para uma leitura confortável. */
+.typographyBodyLgSemibold 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+/* Use para reforçar ou adicionar informações ao títulos ou títulos com menor destaque. */
+.typographySubtitleSm 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 140%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+/* Use para mostrar algo que foi removido ou alterado. */
+.typographySubtitleSmStrikethrough 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 140%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+/* Use para reforçar ou adicionar informações ao títulos ou títulos com menor destaque. */
+.typographySubtitleMd 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+/* Usado para mostrar algo que foi removido ou alterado. */
+.typographySubtitleMdStrikethrough 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+/* Use para reforçar ou adicionar informações ao títulos ou títulos com menor destaque. */
+.typographySubtitleLg 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 136%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+/* Use para mostrar algo que foi removido ou alterado. */
+.typographySubtitleLgStrikethrough 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 136%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+/* Use para reforçar ou adicionar informações ao títulos ou títulos com menor destaque. */
+.typographySubtitleLgRegular 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 136%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+/* Use para destacar o tema do conteúdo. */
+.typographyHeadlineSm 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 140%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+/* Use para destacar o tema do conteúdo. */
+.typographyHeadlineSmRegular 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 140%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+/* Use para destacar o tema do conteúdo. */
+.typographyHeadlineMd 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 134%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+/* Use para destacar o tema do conteúdo. */
+.typographyHeadlineMdRegular 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 134%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+/* Use para destacar o tema do conteúdo. */
+.typographyHeadlineLg 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 136%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+/* Use para destacar o tema do conteúdo. */
+.typographyHeadlineLgRegular 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 136%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+/* Use para destacar o tema do conteúdo. */
+.typographyHeadlineXl 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 140%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+/* Use para destacar o tema do conteúdo. */
+.typographyHeadlineXlRegular 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 140%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+/* Use para destacar o tema do conteúdo. */
+.typographyHeadlineXxl 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 134%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+/* Use para destacar o tema do conteúdo. */
+.typographyHeadlineXxlRegular 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 134%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+/* Use para textos decorativos */
+.typographyDisplayMd 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 136%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+/* Use para textos decorativos */
+.typographyDisplayMdLight 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 56px;
+  line-height: 136%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+/* Use para textos decorativos */
+.typographyDisplayLg 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 150%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+/* Use para textos decorativos */
+.typographyDisplayLgLight 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 64px;
+  line-height: 150%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+/* Use nos textos de botões */
+.typographyButtonSm 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 100%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+/* Use em links */
+.typographyButtonSmUnderline 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 100%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+/* Use nos textos de botões */
+.typographyButtonMd 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 112%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+/* Use em links */
+.typographyButtonMdUnderline 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 112%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+/* Use nos textos de botões */
+.typographyButtonLg 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 100%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+/* Use em links */
+.typographyButtonLgUnderline 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 100%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
